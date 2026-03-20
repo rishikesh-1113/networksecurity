@@ -3,5 +3,9 @@ pandas
 numpy
 pymongo[srv]
 pymongo
+scikit-learn
+mlflow
+pyaml
+dagshub
 
 ##-e .
